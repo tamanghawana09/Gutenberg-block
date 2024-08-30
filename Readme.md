@@ -1,5 +1,3 @@
-Here's a detailed `README.md` for the testimonial block you created, suitable for GitHub:
-
 ---
 
 # Testimonial Block
