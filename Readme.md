@@ -32,7 +32,7 @@ A custom WordPress block that displays a testimonial in a table format. This blo
    Clone this repository to your WordPress theme's directory:
 
    ```bash
-   git clone https://github.com/yourusername/testimonial-block.git
+   git clone https://github.com/tamanghawana09/Gutenberg-block.git
    ```
 
 2. **ACF Block Registration**  
